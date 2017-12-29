@@ -1,0 +1,10 @@
+%YAML:1.0
+images:
+   - "../sample_data/non_68/img0_0.jpg"
+   - "../sample_data/non_68/img1_0.jpg"
+   - "../sample_data/non_68/img2_0.jpg"
+   - "../sample_data/non_68/img3_0.jpg"
+   - "../sample_data/non_68/img4_0.jpg"
+   - "../sample_data/non_68/img5_0.jpg"
+   - "../sample_data/non_68/img6_0.jpg"
+   - "../sample_data/non_68/img7_0.jpg"
