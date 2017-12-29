@@ -5,6 +5,7 @@ You can check the paper for the work flow of our method.
 ## Requeriments:
 
 PCL 1.7 (pointclouds.org)
+
 OpenCV 2.4.13 (opencv.org)
 
 Aruco 1.3.0 
@@ -13,6 +14,7 @@ You can find it on "https://sourceforge.net/projects/aruco/files/" under the "ol
 Note that the leatest version may not work for our code, though we haven't tested yet. 
 
 ## Build:
+    mkdir build
     cd build
     cmake ..
     make
@@ -51,7 +53,8 @@ in support camera's view both chessboard and marker are visibile.
     
 ## Example
 
-We added a simple data to test if the code works fine.
+We added a simple dataset to test if the code works fine.
+
 1, calibrate first marker to target first camera.
 
     cp ./sample_data/board0/board.yml ./build/
